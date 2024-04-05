@@ -4,3 +4,4 @@ Es de uso personal, con el unico fin de probar mis conocimientos y habilidades d
 
 Estará en constantes actualizaciones... 
 
+Paso 1: vincular viual Studio Code con Github y Git.
